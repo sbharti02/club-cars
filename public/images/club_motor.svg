@@ -1,0 +1,12 @@
+<svg width="200" height="60" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="60" width="200" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <g stroke="null" id="svg_5">
+   <text x="100" y="35" font-family="Arial" font-size="20" fill="black" text-anchor="middle" font-weight="bold">CLUB MOTORS</text>
+  </g>
+ </g>
+</svg>
